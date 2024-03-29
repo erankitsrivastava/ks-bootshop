@@ -6,16 +6,18 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify:\/\/shop_images\/small-business-interior.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/small-business-interior.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Welcome to KS BootShop Theme",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
-            "btn_primary_text": "Shop all",
-            "btn_primary_url": "shopify:\/\/collections\/all",
+            "subtitle": "Home & Garden",
+            "title": "Welcome to Shops-To-Home",
+            "description": "<p>Explore ShopstoHome’s Home & Garden for stylish decor and practical tools. Elevate your living spaces with our carefully selected, must-have items.<\/p>",
+            "btn_primary_text": "Shop Home & Garden",
+            "btn_primary_url": "shopify:\/\/collections\/home-garden",
             "btn_secondary_text": "Latest arrivals",
-            "btn_secondary_url": "shopify:\/\/collections\/latest"
+            "btn_secondary_url": "shopify:\/\/collections\/featured-products"
           }
         },
         "slide_TddqxQ": {
